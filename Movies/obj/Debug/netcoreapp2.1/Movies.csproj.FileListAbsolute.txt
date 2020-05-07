@@ -1,0 +1,16 @@
+C:\Users\William\Source\Repos\movie-site\Movies\obj\Debug\netcoreapp2.1\Movies.csprojAssemblyReference.cache
+C:\Users\William\Source\Repos\movie-site\Movies\obj\Debug\netcoreapp2.1\Movies.RazorAssemblyInfo.cache
+C:\Users\William\Source\Repos\movie-site\Movies\obj\Debug\netcoreapp2.1\Movies.RazorAssemblyInfo.cs
+C:\Users\William\Source\Repos\movie-site\Movies\obj\Debug\netcoreapp2.1\Movies.AssemblyInfoInputs.cache
+C:\Users\William\Source\Repos\movie-site\Movies\obj\Debug\netcoreapp2.1\Movies.AssemblyInfo.cs
+C:\Users\William\Source\Repos\movie-site\Movies\obj\Debug\netcoreapp2.1\Movies.TagHelpers.input.cache
+C:\Users\William\Source\Repos\movie-site\Movies\obj\Debug\netcoreapp2.1\Movies.TagHelpers.output.cache
+C:\Users\William\Source\Repos\movie-site\Movies\obj\Debug\netcoreapp2.1\Movies.RazorCoreGenerate.cache
+C:\Users\William\Source\Repos\movie-site\Movies\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\William\Source\Repos\movie-site\Movies\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\William\Source\Repos\movie-site\Movies\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\William\Source\Repos\movie-site\Movies\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\William\Source\Repos\movie-site\Movies\obj\Debug\netcoreapp2.1\Movies.RazorTargetAssemblyInfo.cache
+C:\Users\William\Source\Repos\movie-site\Movies\obj\Debug\netcoreapp2.1\Movies.RazorTargetAssemblyInfo.cs
+C:\Users\William\Source\Repos\movie-site\Movies\obj\Debug\netcoreapp2.1\Movies.dll
+C:\Users\William\Source\Repos\movie-site\Movies\obj\Debug\netcoreapp2.1\Movies.pdb

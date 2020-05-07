@@ -16,7 +16,7 @@ namespace Movies
 
         /// <summary>
         /// Loads the movie database from the JSON file
-        /// </summary>
+        /// </summary> 
         static MovieDatabase() {
             
             using (StreamReader file = System.IO.File.OpenText("movies.json"))
